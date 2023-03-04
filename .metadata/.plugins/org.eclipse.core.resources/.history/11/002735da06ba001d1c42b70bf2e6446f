@@ -1,0 +1,5 @@
+package com.spring.dscatalog.resources;
+
+public class CategoryResources {
+
+}
